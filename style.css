@@ -1,0 +1,169 @@
+/* for 1st section */
+.container-1{
+    height: 90vh;
+    width: 100%;
+    text-align: center;
+    padding-top: 150px;
+    background-color: #33FFD4 ;
+    background-image: url(./assets/1327980.png);
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 8rem;
+    font-weight: 400;
+    color:white;
+}
+
+.name{
+    color: blue;
+}
+
+.role{
+    font-family: 'Carlito', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 200;
+    color: white;
+}
+
+.position{
+    color: blue;
+    text-decoration: underline;
+}
+
+/* for 2nd section */
+.container-2{
+    text-align: center;
+}
+
+.small-intro{
+    padding: 10rem 0%;
+}
+
+.my-photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+
+.greetings{
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 100;
+    color: blue;
+}
+
+.intro{
+    font-size: 1.5rem;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    padding-bottom: 1rem;
+}
+
+.skill-sets{
+    text-align: center;
+}
+
+.skills,.qualifications,.work-exp,.online-learnings,.my-projects,.contact-section,.my-interest{
+    font-size: 3rem;
+    font-weight: 300;
+    font-family: 'Dancing Script', cursive;
+    color: blue;
+}
+
+.skill-list{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    padding: 2rem;
+}
+
+.skill-image{
+    height: 100px;
+    width: 150px;
+}
+
+.not-flex{
+    margin: auto;
+    display: block;
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+.education-qualifications,.work-experience,.online-courses,.projects,.contact-me,.about-me{
+    text-align: center;
+    padding-top: 8.5rem;
+}
+
+.qualifications-list li, .online-learning li, .all-projects li, .contact-me p{
+    list-style-type: none;
+    font-size: 1.5rem;
+    font-family: 'Carlito', sans-serif;
+    line-height: 2;
+}
+
+.company-1{
+    margin: auto;
+    display: block;
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.works-done{
+    color: blueviolet;
+    font-size: 1.5rem;
+}
+
+.interests p{
+    font-size: 1.5rem;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    padding-bottom: 1rem;
+}
+
+.contact-me-buddy button{
+    background-color: #33FFD4;
+    border-radius: 2rem;
+    font-size: x-large;
+    color: white;
+}
+
+.contact-me-buddy button:hover{
+    background-color: blue;
+}
+
+
+/* for 3rd section */
+.container-3{
+    margin-top: 10rem;
+    text-align: center;
+    height: 13rem;
+    width: 100%;
+    background-color:darkcyan ;
+}
+
+.container{
+    padding-top: 4.5rem;
+}
+
+.nav-item{
+    font-size: large;
+    display: inline-flex;
+    padding: 0% 20px;
+}
+
+footer p{
+    padding-left: 2rem;
+    color: white;
+}
+
+.nav-link{
+    color: darkblue;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: white; 
+}
